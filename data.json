@@ -5,6 +5,13 @@
 "ville":"casa",
 "genre":"h",
 "phone":{
+"mobile":"453555"},{
+"id":1,
+"nom":"ahmad",
+"email":"ahmad@gmail.com",
+"ville":"casa",
+"genre":"h",
+"phone":{
 "mobile":"453555"}]
 
 }
