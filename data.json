@@ -1,17 +1,24 @@
-{"formatures":[{
-"id":1,
-"nom":"ahmad",
-"email":"ahmad@gmail.com",
-"ville":"casa",
-"genre":"h",
-"phone":{
-"mobile":"453555"},{
-"id":1,
-"nom":"ahmad",
-"email":"ahmad@gmail.com",
-"ville":"casa",
-"genre":"h",
-"phone":{
-"mobile":"453555"}]
-
+{
+  "formatures": [
+    {
+      "id": "55",
+      "nom": "ahmad",
+      "email": "ahmad@gmail.com",
+      "ville": "casa",
+      "genre": "h",
+      "phone": {
+        "mobile": "453555"
+      }
+    },
+    {
+      "id": "88",
+      "nom": "ahmad",
+      "email": "ahmad@gmail.com",
+      "ville": "casa",
+      "genre": "h",
+      "phone": {
+        "mobile": "45355555545488"
+      }
+    }
+  ]
 }
